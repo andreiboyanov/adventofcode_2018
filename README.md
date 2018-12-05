@@ -1,1 +1,1 @@
-# adventofcode_2018
+adventofcode 2018 competition
